@@ -1,0 +1,10 @@
+.counter-box{
+    background-color: salmon;
+    color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 2%;
+    padding: 15px;
+}
+.btn{
+    padding: 2px;
+}
